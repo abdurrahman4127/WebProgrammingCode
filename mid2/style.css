@@ -1,0 +1,20 @@
+body {
+    margin-left: 460px;
+    margin-top: 80px;
+}
+
+.img {
+    position: inherit;
+}
+
+.submitbtn {
+    margin-left: 140px;
+}
+
+.banner {
+    width: 370px;
+}
+
+input[type="text" i] {
+    padding: 6px 50px;
+}

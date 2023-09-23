@@ -1,0 +1,200 @@
+body {
+    margin: 2px 1px;
+}
+
+.header {
+    height: 90px;
+    width: 100%;
+    /* background-color: yellow; */
+}
+
+.header_left {
+    /* background-color: blue; */
+    width: 20%;
+    height: 90px;
+    float: left;
+    margin-left: 50px;
+}
+
+.header_right {
+    /* background-color: blueviolet; */
+    width: 60%;
+    height: 90px;
+    float: right;
+}
+
+#Linkedin_logo {
+    height: 70px;
+    width: 250px;
+}
+
+.option {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+}
+
+.option1, .option2, .option3, .option4 {
+    margin-left: 50px;
+}
+
+#signin {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    font-size: 20px;
+    margin-left: 30px;    
+    margin-top: 10px;
+    border-radius: 40px;
+    height: 60px;
+    color: blue;
+    border: 1px solid blue;
+}
+
+/* .button2 {
+    color: blue;
+} */
+
+#user_icon {
+    height: 50px;
+    width: 50px;
+}
+
+#join_now {
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 10px;
+    /* border-radius: 15px; */
+    height: 55px;
+    background: transparent;
+    border: none;
+    /* border: 1px solid grey; */
+}
+
+#join_now:hover {
+    border: 1px solid grey;
+    border-radius: 15px;
+
+}
+
+.content_right {
+    height: 500px;
+    width: 40%;
+    float: right;
+    margin-right: 100px;
+    /* background-color: aqua; */
+
+}
+
+
+.content_left {
+    margin-left: 60px;
+    height: 760px;
+    width: 45%;
+    float: left;
+    /* background-color: aqua; */
+}
+
+
+#man_logo {
+    height: 550px;
+    width: 100%;
+}
+
+p {
+    font-size: 50px;
+    margin-left: 20px;
+    color: goldenrod;
+}
+
+.name_mail {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.buttonX {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    height: 70px;
+    width: 60%;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+
+.input_field {
+    height: 40px;
+    width: 60%;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 20%;
+    color: rgb(120, 127, 133);
+}
+
+
+#signin2 {
+    height: 45px;
+    width: 60%;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.email_pass {
+    margin-left: 20px;
+
+}
+
+
+.or {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.or_left {
+    height: 2px;
+    width: 28%;
+    background-color: black;
+    margin-left: 20px;
+    float: left;
+}
+
+.or_right {
+    height: 2px;
+    width: 28%;
+    background-color: black;
+    margin-right: 220px;
+    float: right;
+}
+
+#google_icon {
+    height: 40px;
+    width: 40px;
+    margin-left: 70px;
+}
+
+.new_to_linkedin {
+    height: 45px;
+    width: 60%;
+    margin-left: 15px;
+    border-radius: 15px;
+    margin-top: 20px;   
+    font-size: 15px;
+}
+
+#new_to_linkedin{
+    color: black;
+    margin-left: 10px;
+}

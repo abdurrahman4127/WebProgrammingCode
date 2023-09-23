@@ -1,0 +1,27 @@
+#tab{
+    background-image: url(imo.jpg);
+}
+#box{
+    height: 300px;
+    width: 300px;
+    margin: 15% 0 0 65%;
+    background-color: aqua;
+}
+.txn{
+    height: 30px;
+    width: 200px;
+    border: 2px solid yellow;
+    background-color: transparent;
+    border-radius: 5px;
+    color: blue;
+    font-weight: bold;
+}
+#btn{
+    height: 40px;
+    width: 150px;
+    border: 2px solid yellow;
+    background-color: orange;
+    border-radius: 5px;
+    color: blue;
+    font-weight: bold;
+}

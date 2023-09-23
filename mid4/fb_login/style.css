@@ -1,0 +1,53 @@
+.txn {
+    height: 30px;
+    width: 250px;
+    background-color: transparent;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: black; /* font color */
+    font-weight: bold;
+}
+
+#btn {
+    height: 40px;
+    width: 250px;
+    color: white;
+    font-weight: bold;
+    border: 2px solid yellow;
+    border-radius: 7px;
+    margin-left: 15px;
+    background: blue;
+}
+
+#box1 {
+    height: 300px;
+    width: 280px;
+    /* background-color: aqua;  */
+    margin: 0 10% 0 0; /* right */
+    left: 200px;
+    float: right;
+}
+
+#box2 {
+    height: 300px;
+    width: 280px;
+    margin: 0 0 0 10%; /* left */
+    float: left;
+}
+
+#tbl {
+    background-image: url(images.jpg);
+}
+
+.parent {
+    margin: 15% 0 0 0; /* 15% from the top */
+}
+
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    margin-left: 80px;
+}

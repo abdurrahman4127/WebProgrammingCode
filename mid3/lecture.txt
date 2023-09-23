@@ -1,0 +1,30 @@
+1. style attribute
+    - inside body
+
+    <body style="background-color: aqua;">
+    <p style="color: red;">Hello world</p>
+    <p>CSS programming</p>
+
+
+2. style tag
+    - inside the head tag
+
+    <style>
+        body {
+            background-color: rgb(255, 0, 0);
+        }
+    </style>
+
+
+3. seperate css file
+    - seperate css file
+
+
+
+
+id - unique (e.g., unique button) (#)
+class - keep multiple content in a class (.)
+
+
+
+
